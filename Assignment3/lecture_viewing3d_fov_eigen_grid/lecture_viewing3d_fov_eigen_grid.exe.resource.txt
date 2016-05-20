@@ -1,0 +1,1 @@
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/felice/Desktop/icg/lecture_viewing3d_fov_eigen_grid/lecture_viewing3d_fov_eigen_grid.exe.embed.manifest"
